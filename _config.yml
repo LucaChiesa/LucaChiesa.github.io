@@ -3,7 +3,7 @@
 title: Luca Chiesa
 description: PhD student @ UniStra
 
-baseurl: "."
+baseurl: "/gradfolio"
 url: "https://LucaChiesa.github.io"
 email: #
 
@@ -13,10 +13,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+linkedin: "luca-chiesa"
+github: "LucaChiesa"
+researchgate: "Luca-Chiesa"
+orcid: "0000-0002-2114-8683"
 
 
 # Markdown
