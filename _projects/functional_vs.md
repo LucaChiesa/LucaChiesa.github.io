@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Functional virtual screening trageting GPCRs
+title: Functional virtual screening
 description: Developing methods for functional virtual screening targeting GPCRs
 ---
 
