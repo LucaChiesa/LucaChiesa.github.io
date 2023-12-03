@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Functional virtual screening
+title: Functional drug discovery
 description: Developing methods for functional virtual screening targeting GPCRs
 ---
 
