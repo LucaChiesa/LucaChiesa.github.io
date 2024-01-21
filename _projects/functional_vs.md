@@ -1,7 +1,12 @@
 ---
 layout: project
+<<<<<<< HEAD
 title: Efficacy driven drug discovery
 description: Developing methods for virtual screening targeting GPCRs
+=======
+title: Functional drug discovery
+description: Developing methods for functional virtual screening targeting GPCRs
+>>>>>>> 268002fca0ab2769c29107a7a37dd85ab7e0726b
 ---
 
 G-protein coupled receptor are one of the most important targets for drug discovery.
