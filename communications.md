@@ -1,7 +1,7 @@
 ---
-title: Comunications
+title: Communications
 layout: default
-permalink: comunications.html
+permalink: communications.html
 ---
 ### Oral communications
 1. L. Urvas, <u>L. Chiesa</u>, G. Bret, C. Jaquemard, E. Kellenberger<br/>
