@@ -1,13 +1,18 @@
 ---
 layout: project
-title: Functional virtual screening trageting GPCRs
-description: Developing methods for functional virtual screening targeting GPCRs
+title: Efficacy driven drug discovery
+description: Developing methods for virtual screening targeting GPCRs
 ---
 
 G-protein coupled receptor are one of the most important targets for drug discovery.
 GPCRs mediate signaling in response to the binding of a ligand in the extracellular binding pocket.
-Agonists stabilize an active state conformation of the receptor leading to an increase in singaling intensity, antaognists stabilize an inactive state conformation of the receptor and keep the signal intensity at basal level.
-The objective of functional virtual screening is to identify ligand with a specific efficacy during the virtual screening phase.
+Each ligand is characterized both by its ability to bind the receptor (affinity) and the maximum signaling response upon binding (efficacy).
+The binding of agonists leads to an increase in singaling intensity, while antagonists maintain the signaling response at basal level.
+Designing new ligands with either agonist or antagonist efficacy is still a challenging task for structure-based drug design.
+
+During my PhD I studied knowledge-based method leveraging the binding mode of ligands with a known efficacy to identify other molecules with the same profile.
+As part of this research I developed a new method leveraging one class classification to extract relevant protein-ligand interactions from molecular dynamics simulations.
+These models can be used to identify new ligands able to form the same interaction as the reference, and therefore having the same efficacy as the reference.
 
 Related publications
 --------------------
